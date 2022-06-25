@@ -1,0 +1,8 @@
+﻿  WinMain.cpp
+C:\Users\SB15\Desktop\studySpace\gameSpace\study_winAPI\WinAPI_Solution_Pjts\20_Bounce\WinMain.cpp(118,9): warning C4101: 'hBrush' :참조되지 않은 지역 변수입니다.
+C:\Users\SB15\Desktop\studySpace\gameSpace\study_winAPI\WinAPI_Solution_Pjts\20_Bounce\WinMain.cpp(117,7): warning C4101: 'hPen' :참조되지 않은 지역 변수입니다.
+C:\Users\SB15\Desktop\studySpace\gameSpace\study_winAPI\WinAPI_Solution_Pjts\20_Bounce\WinMain.cpp(117,13): warning C4101: 'OldPen' :참조되지 않은 지역 변수입니다.
+C:\Users\SB15\Desktop\studySpace\gameSpace\study_winAPI\WinAPI_Solution_Pjts\20_Bounce\WinMain.cpp(120,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+C:\Users\SB15\Desktop\studySpace\gameSpace\study_winAPI\WinAPI_Solution_Pjts\20_Bounce\WinMain.cpp(119,7): warning C4101: 'crt' :참조되지 않은 지역 변수입니다.
+C:\Users\SB15\Desktop\studySpace\gameSpace\study_winAPI\WinAPI_Solution_Pjts\20_Bounce\WinMain.cpp(118,17): warning C4101: 'OldBrush' :참조되지 않은 지역 변수입니다.
+  20_Bounce.vcxproj -> C:\Users\SB15\Desktop\studySpace\gameSpace\study_winAPI\WinAPI_Solution_Pjts\Debug\20_Bounce.exe
